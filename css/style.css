@@ -680,7 +680,8 @@ footer span a:hover{
 }
 
 .secondHalf img{
-    width: 100%; 
+    width: 100%;
+    height: 35%;
     border: 4px solid ##ff0000;
     border-radius: 300px;
     display: block;
